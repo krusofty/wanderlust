@@ -23,7 +23,7 @@ function header() {
                 navigate('/add-blog');
               }}
             >
-              Create post
+              Zingalala post
             </button>
             <button
               className="px-2 py-2 hover:bg-slate-500/25 md:hidden"
